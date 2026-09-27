@@ -1,0 +1,2 @@
+vless://3630bc5a-128b-4c00-9c8d-4ffdb0bb3621@test999.fox-stone.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=faster.lizeg.ru&fp=firefox&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#WORK%201
+vless://3630bc5a-128b-4c00-9c8d-4ffdb0bb3621@test.pure-birch.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de.lizeg.ru&fp=firefox&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#WORK%202
